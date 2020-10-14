@@ -6,7 +6,7 @@
 
 ## Link to the project
 
-It is a web application project made as final project for my CS50x (Harvard) online course using Python (Flask), MySQL, and hosted at **Google Cloud Platform**. It can be found **(here)[https://github.com/ingeniousperk/final-cs50]**.
+It is a web application project made as final project for my CS50x (Harvard) online course using Python (Flask), MySQL, and hosted at **Google Cloud Platform**. It can be found **[here](https://github.com/ingeniousperk/final-cs50)**.
 
 ## Me and GCP
 
